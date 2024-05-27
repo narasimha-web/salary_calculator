@@ -1,0 +1,29 @@
+body{
+    background-color: #D5D6DA;
+}
+.container{
+    width:50%;
+  height: 40%;
+  background-color: #D0D9E8;
+  margin-top: 150px;
+  box-shadow: 0px 1px 8px 3px;
+ 
+}
+.column1{
+    margin:10px;
+}
+
+.column2{
+    margin:15px;
+}
+.btn{
+    width:100%;
+}
+.title{
+    text-align: center;
+    padding: 5px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-shadow: 2px 2px 4px ;
+ 
+}
